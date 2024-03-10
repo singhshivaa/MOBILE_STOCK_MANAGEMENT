@@ -15,7 +15,7 @@ Experience the sleek graphical user interface (GUI) by launching our project in 
 
 Initiate the validation process by engaging with the functionality buttons, confirming the operational integrity of our codebase. Subsequently, witness the prompt to complete all required input fields, ensuring comprehensive data entry.
 
-![Screenshot (676)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/301bf98a-f84b-498d-b541-2da90ec31e6e)
+![Screenshot (698)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/69c54e29-32df-4c3e-9bc9-ea1eac6b444c)
 
 
 ## Step 3: Seamless Item Addition and CRUD Operation Execution
@@ -24,11 +24,13 @@ Empower your stock management capabilities by seamlessly adding new items throug
 
 ![Screenshot (686)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/e186919b-b1fa-40bf-8d6c-646f7b0f97ec)
 
+
 ## Step 4: Unlocking Robust Inventory Management Features
 
 Unlock a myriad of robust features including real-time updates, item removal, comprehensive search functionality, and streamlined deletion processes, fortifying your inventory management with unparalleled technical prowess.
 
 ![Screenshot (685)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/6a089108-aac7-4dce-b544-360017f2540a)
+
 
 ## Step 5: Database Visualization on GUI (Stock Display)
 
