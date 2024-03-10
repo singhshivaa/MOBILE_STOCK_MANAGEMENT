@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Management</title>
+    <link rel="stylesheet" href="pro1.css">
+    <script src="pro1.js" defer></script>
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="container">
+            <div class="left-section">
+                <h1>MOBILE STOCK MANAGEMENT SYSTEM</h1>
+                <div id="messageContainer"></div>
+
+                <div class="input-feild">
+                    <input type="text" class="placeholder" placeholder="Enter the brand" id="mb" />
+                    <input type="text" class="placeholder" placeholder="Mobile model " id="mm" />
+                    <input type="text" class="placeholder" placeholder="Mobile color" id="mc" />
+                    <input type="text" class="placeholder" placeholder="Mobile variant(Ram,Rom)" id="mv" />
+                    <input type="text" class="placeholder" placeholder="Mobile price" id="mp" />
+                </div>
+
+                <div class="button-class">
+                    <button class="button" type="button" onclick="addStock()">ADD stock</button>
+                    <button class="button" type="button" onclick="removeStock()">Remove stock</button>
+                    <button class="button" type="button" onclick="updateStock()">Update stock</button>
+                    <!-- <button class="button" type="button" onclick="showStock()">Show stock</button> -->
+                    <button class="button" type="button" onclick="searchBrand()">Search brand</button>
+                    <button class="button" type="button" onclick="toggleStockDisplay()"> Stock Display</button>
+                </div>
+            </div>
+            <div class="right-section">
+                <!-- <h1>Store Data Dashboard</h1> -->
+                <div id="messageContainer"></div>
+                <div id="stockDisplay" class="stock-container"></div>
+            </div>
+        </div>
+        <div class="img-container">
+            <img src="mobile.jpg">
+        </div>
+    </div>
+</body>
+
+</html>
