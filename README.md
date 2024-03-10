@@ -23,3 +23,9 @@ Initiate the validation process by engaging with the functionality buttons, conf
 Empower your stock management capabilities by seamlessly adding new items through the intuitive input fields, facilitating the execution of CRUD operations with precision and efficiency.
 
 ![Screenshot (686)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/e186919b-b1fa-40bf-8d6c-646f7b0f97ec)
+
+## Step 4: Unlocking Robust Inventory Management Features
+
+Unlock a myriad of robust features including real-time updates, item removal, comprehensive search functionality, and streamlined deletion processes, fortifying your inventory management with unparalleled technical prowess.
+
+![Screenshot (686)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/e186919b-b1fa-40bf-8d6c-646f7b0f97ec)
