@@ -41,7 +41,7 @@ Elevate your stock management experience with our innovative database visualizat
 
 
 
-## Complete Graphical User Interface
+## Complete Graphical User Interface (GUI)
 ![Screenshot (697)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/c7136334-72fc-4a33-adaa-e176fe57f166)
 
 
