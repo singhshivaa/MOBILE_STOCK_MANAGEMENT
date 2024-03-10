@@ -37,3 +37,15 @@ Unlock a myriad of robust features including real-time updates, item removal, co
 Elevate your stock management experience with our innovative database visualization feature, accessible via the 'Stock Display' button. Witness the culmination of your inventory data transformed into a comprehensible visual representation, empowering you with real-time insights into your stock inventory directly within our web application interface. Seamlessly integrated and effortlessly navigable, this feature epitomizes the convergence of cutting-edge technology and intuitive design, providing unparalleled visibility into your stock assets.
 
 ![Screenshot (682)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/694bc864-f8a6-472e-b51f-d1f78f19fc2f)
+
+
+
+
+
+![Screenshot (697)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/c7136334-72fc-4a33-adaa-e176fe57f166)
+
+
+
+
+
+
