@@ -3,6 +3,7 @@ Revolutionize stock management with our Mobile Stock Management Project, powered
 
 Here I'm Explaining how it works.
 Step 1: 
+## Step 1: Initial Interface Showcase
 
 "Experience the sleek graphical user interface (GUI) by launching our project in any web browser, offering a seamless visual representation of your stock management system."
 
