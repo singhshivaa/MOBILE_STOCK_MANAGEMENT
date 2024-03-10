@@ -28,4 +28,5 @@ Empower your stock management capabilities by seamlessly adding new items throug
 
 Unlock a myriad of robust features including real-time updates, item removal, comprehensive search functionality, and streamlined deletion processes, fortifying your inventory management with unparalleled technical prowess.
 
-![Screenshot (686)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/e186919b-b1fa-40bf-8d6c-646f7b0f97ec)
+![Screenshot (685)](https://github.com/singhshivaa/MOBILE_STOCK_MANAGEMENT/assets/160582204/6a089108-aac7-4dce-b544-360017f2540a)
+
